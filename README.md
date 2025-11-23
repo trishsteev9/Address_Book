@@ -59,5 +59,3 @@ This Address Book project is useful for practicing and demonstrating:
 4. On the next run, the program restores the contact list automatically.
 
 ---
-
-If you want, I can add installation steps or sample output as well.
