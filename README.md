@@ -1,6 +1,4 @@
-Here is the **correctly formatted README.md** version, clean and GitHub-ready:
 
----
 
 # Address_Book
 
